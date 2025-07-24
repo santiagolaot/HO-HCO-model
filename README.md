@@ -13,4 +13,4 @@ Human behaviors in social systems are often shaped by group pressure and collect
 # Contents of the repository
 
 #### **Main Source Code**
-- **`HO-HCO_utils.py`** – Python source file implementing the HO-HCO and HO-HC models.
+- **`Utils.py`** – Python source file implementing the HO-HCO and HO-HC models.
