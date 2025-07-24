@@ -2,7 +2,7 @@
 
 This code files contains the core code to perform the numerical simulations in the following paper:
 
-- Elisa Bretón-Fuertes, Clara Clemente-Marcuello, Verónica Sanz-Arqué, Gabriela Tomás-Delgado, Santiago Lamata-Otín, Hugo Pérez-Martinez &amp; Jesús Gómez-Gardeñes1
+- Elisa Bretón-Fuertes, Clara Clemente-Marcuello, Verónica Sanz-Arqué, Gabriela Tomás-Delgado, Santiago Lamata-Otín, Hugo Pérez-Martinez &amp; Jesús Gómez-Gardeñes
 
 
 # Abstract
